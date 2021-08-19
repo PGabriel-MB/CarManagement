@@ -8,6 +8,7 @@ class CarManagementApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("luto");
 	}
 
 }
