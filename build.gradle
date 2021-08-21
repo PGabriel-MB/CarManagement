@@ -5,7 +5,7 @@ plugins {
 	id 'application'
 }
 
-group = 'br.gov.sp.fatec'
+group = 'br.gov.sp.fatec.CarManagement'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
@@ -26,4 +26,4 @@ test {
 	useJUnitPlatform()
 }
 
-mainClassName = 'CarManagementApplication'
+mainClassName = 'br.gov.sp.fatec.CarManagement.CarManagementApplication'
