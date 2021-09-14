@@ -15,6 +15,7 @@ public class CarManagementApplication {
 	}
 
 	public static void main(String[] args) {
+		connect();
 		SpringApplication.run(CarManagementApplication.class, args);
 	}
 
